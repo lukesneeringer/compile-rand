@@ -4,6 +4,7 @@ version = "1.0.0"
 edition = "2024"
 rust-version = "1.85"
 authors = ["Luke Sneeringer <luke@sneeringer.com>"]
+description = "Compile-time random integers"
 license = "MIT"
 repository = "https://github.com/lukesneeringer/compile-rand"
 documentation = "https://docs.rs/compile_rand/"
